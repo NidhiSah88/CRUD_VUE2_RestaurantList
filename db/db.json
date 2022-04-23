@@ -1,0 +1,60 @@
+{
+  "users": [
+    {
+      "email": "tg@gmail.com",
+      "password": "tg11",
+      "name": "tangri",
+      "id": 1
+    },
+    {
+      "email": "nk@tcs.com",
+      "password": "nk",
+      "name": "nk",
+      "id": 2
+    },
+    {
+      "email": "pk@gmail.com",
+      "password": "pk",
+      "name": "pk",
+      "id": 3
+    },
+    {
+      "email": "uip@gmail.com",
+      "password": "uiop",
+      "name": "uiop",
+      "id": 4
+    }
+  ],
+  "restaurant": [
+    {
+      "name": "Burger King",
+      "address": "Assam",
+      "contact": "11118989",
+      "id": 1
+    },
+    {
+      "name": "Dominoz",
+      "address": "Shillong",
+      "contact": "2222",
+      "id": 2
+    },
+    {
+      "name": "KFC",
+      "contact": 3333,
+      "address": "Noida",
+      "id": 3
+    },
+    {
+      "name": "HANU",
+      "address": "JAPAN",
+      "contact": "4444",
+      "id": 4
+    },
+    {
+      "name": "lajij",
+      "address": "ll@gmail.com",
+      "contact": "9090909090",
+      "id": 5
+    }
+  ]
+}
